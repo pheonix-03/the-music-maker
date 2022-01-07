@@ -1,2 +1,4 @@
-# the-music-maker
-It is a music maker using only notes and a pace of the song
+# The-music-maker
+- It takes the notes of the music 
+- Also the speed of the played notes
+- it generates an mp3 file
